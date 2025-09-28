@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf96b5ee-24f3-4411-83b7-7be84aa8f0ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/tests.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FrontendFirstPr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Raleway-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/card-lot-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/card-lot-02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/card-lot-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo-black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/pinterest.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/vk.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/yt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,11 +72,22 @@
       <updated>1759049309820</updated>
       <workItem from="1759049310942" duration="6776000" />
       <workItem from="1759069963728" duration="2385000" />
-      <workItem from="1759086739425" duration="3154000" />
+      <workItem from="1759086739425" duration="3903000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

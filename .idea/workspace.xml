@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf96b5ee-24f3-4411-83b7-7be84aa8f0ae" name="Changes" comment="Фиксы">
+    <list default="true" id="bf96b5ee-24f3-4411-83b7-7be84aa8f0ae" name="Changes" comment="Фиксы2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/fonts.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +76,7 @@
       <updated>1759049309820</updated>
       <workItem from="1759049310942" duration="6776000" />
       <workItem from="1759069963728" duration="2385000" />
-      <workItem from="1759086739425" duration="4277000" />
+      <workItem from="1759086739425" duration="5304000" />
     </task>
     <task id="LOCAL-00001" summary="Фиксы">
       <option name="closed" value="true" />
@@ -90,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759090861794</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Фиксы2">
+      <option name="closed" value="true" />
+      <created>1759091204501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759091204501</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Фиксы" />
-    <option name="LAST_COMMIT_MESSAGE" value="Фиксы" />
+    <MESSAGE value="Фиксы2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Фиксы2" />
   </component>
 </project>

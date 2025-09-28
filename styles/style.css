@@ -1,4 +1,7 @@
 /* место для вашего кода */
+
+
+
 header {
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
@@ -246,7 +249,7 @@ header {
 
 .about-second-paragraph {
     margin-top: 24px;
-    padding-right: 22px;
+    padding-right: 25px;
 }
 
 .page-footer {
